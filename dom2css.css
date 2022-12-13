@@ -1,0 +1,201 @@
+body{
+    margin: 0;
+    background: #3a4655;
+    
+}
+#cal{
+  margin-left: 10%;
+}
+#box{
+    width: 70%;
+    align-items: center;
+}
+#seven{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: white;
+    background-color: #646a72;
+        border: 0px;
+}
+#eight{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: white;
+    background-color: #646a72;
+        border: 0px;
+}
+#nine{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: white;
+    background-color: #646a72;
+        border: 0px;
+
+}
+#mul{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: rgb(243, 179, 42);
+    background-color: #646a72;
+        border: 0px;
+}
+#four{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: white;
+    background-color: #646a72;
+        border: 0px;
+
+}
+
+#five{
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: white;
+    background-color: #646a72;
+        border: 0px;
+
+}
+
+#nine{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: white;
+    background-color: #646a72;
+        border: 0px;
+
+}
+
+#six{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: white;
+    background-color: #646a72;
+        border: 0px;
+
+}
+#sub{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: rgb(243, 179, 42);
+    background-color: #646a72;
+        border: 0px;
+}
+#one{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: white;
+    background-color: #646a72;
+        border: 0px;
+
+}
+#two{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: white;
+    background-color: #646a72;
+        border: 0px;
+
+}
+#three{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: white;
+    background-color: #646a72;
+        border: 0px;
+
+}
+#add{
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 9%;
+    color: rgb(243, 179, 42);
+    background-color: #646a72;
+        border: 0px;
+}#Ac{
+    padding-left: 9%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 9%;
+    color: rgb(243, 42, 42);
+    background-color: #646a72;
+        border: 0px;    margin-top: 1%;
+
+}#zero{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: rgb(243, 179, 42);
+    background-color: #646a72;
+        border: 0px;
+}
+#div{    margin-top: 1%;
+
+    padding-left: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: rgb(243, 179, 42);
+    background-color: #646a72;
+        border: 0px;
+}
+#eql{
+    margin-top: 1%;
+    padding-left: 9%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 11%;
+    color: rgb(243, 179, 42);
+    background-color: #646a72;
+        border: 0px;
+}
+#back{
+    margin-top: 1%;
+
+    padding-left: 9%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-right: 8%;
+    color: white;
+    background-color: #646a72;
+        border: 0px;
+
+}
